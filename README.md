@@ -1,40 +1,50 @@
-# Olá, sou um Desenvolvedor de Software ERP!
+# Hi, I'm an ERP Software Developer!
 
-🔧 **Experiência:** 17+ anos em desenvolvimento de software, especializado em soluções ERP robustas e escaláveis.
+🔧 **Experience:** 17+ years in software development, specializing in robust and scalable ERP solutions.
 
-## Sobre Mim
+## About Me
 
-Sou apaixonado por otimizar processos e impulsionar negócios através de soluções ERP. Minha missão é ajudar empresas a alcançarem a excelência operacional, otimizando processos, reduzindo custos e impulsionando o crescimento.
+I am passionate about optimizing processes and driving business growth through ERP solutions. My mission is to help companies achieve operational excellence by optimizing processes, reducing costs, and driving growth.
 
 ## Expertise
 
-- **Linguagens de Programação:**
-  - Delphi (17 anos)
-  - C# (15 anos)
-  - Angular 2+ (8 anos)
-  - Typescript e Blazor (5 anos)
+- **Programming Languages:**
+  - Delphi (17 years)
+  - C# (15 years)
+  - Angular 2+ (8 years)
+  - Typescript and Blazor (5 years)
 
-- **Desenvolvimento de ERP:**
-  - Desenvolvimento completo do ERP SGE, desde a arquitetura até módulos críticos como emissão de NF-e, geração de SPED e controle de produção.
+- **ERP Development:**
+  - Complete development of the ERP SGE, from architecture to critical modules like NF-e issuance, SPED generation, and production control.
 
-- **Documentos Fiscais Eletrônicos:**
-  - Implementação de NF-e, NFC-e, NFS-e, CT-e, MDF-e e GNRE.
+- **Electronic Tax Documents:**
+  - Implementation of NF-e, NFC-e, NFS-e, CT-e, MDF-e, and GNRE.
 
-- **Integrações Sob Medida:**
-  - Integração de ERPs com diversos e-commerces, otimizando fluxos de trabalho e alavancando vendas.
+- **Custom Integrations:**
+  - Integrated ERPs with various e-commerce platforms, optimizing workflows and boosting sales.
 
-- **Arquitetura de Soluções:**
-  - Projetos de servidores de aplicação com MEF (inversão de dependência) e WCF, garantindo escalabilidade e confiabilidade.
+- **Solution Architecture:**
+  - Designed application servers using MEF (dependency inversion) and WCF, ensuring scalability and reliability.
 
-## Minhas Habilidades
+## My Skills
 
-- **Desenvolvimento de Software:**
-  - Proficiência em Delphi, C#, Angular 2+, Typescript e Blazor.
+- **Software Development:**
+  - Proficient in Delphi, C#, Angular 2+, Typescript, and Blazor.
 
-- **Arquitetura de Soluções:**
-  - Experiência em projetar e implementar sistemas escaláveis e robustos.
+- **Solution Architecture:**
+  - Experience in designing and implementing scalable and robust systems.
 
-- **Integrações:**
-  - Integração de ERPs com diversas plataformas e sistemas.
+- **Integrations:**
+  - Integration of ERPs with various platforms and systems.
 
-- **Documentação Fiscal Ele
+- **Electronic Tax Documentation:**
+  - Issuance and generation of electronic tax documents.
+
+- **Communication:**
+  - Excellent communication skills and teamwork abilities.
+
+---
+
+🎯 **Goal:** Transform businesses through innovative solutions and achieve exceptional results.
+
+🔗 **Let's connect!**
