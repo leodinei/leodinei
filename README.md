@@ -1,6 +1,6 @@
 # Hi, I'm an ERP Software Developer!
 
-🔧 **Experience:** 17+ years in software development, specializing in robust and scalable ERP solutions.
+🔧 **Experience:** 19+ years in software development, specializing in robust and scalable ERP solutions.
 
 ## About Me
 
@@ -9,10 +9,10 @@ I am passionate about optimizing processes and driving business growth through E
 ## Expertise
 
 - **Programming Languages:**
-  - Delphi (17 years)
-  - C# (15 years)
-  - Angular 2+ (8 years)
-  - Typescript and Blazor (5 years)
+  - Delphi (19 years)
+  - C# (17 years)
+  - Angular 2+ (10 years)
+  - Typescript and Blazor (7 years)
 
 - **ERP Development:**
   - Complete development of the ERP SGE, from architecture to critical modules like NF-e issuance, SPED generation, and production control.
